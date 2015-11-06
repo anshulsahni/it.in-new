@@ -1,0 +1,61 @@
+<head>
+	<style type="text/css">
+		#ardeur12_wrapper{width: 100%;	height: 100%;}
+		#ardeur12_container{width: 100%;	height: 100%;	border-radius: 5px;}
+		#next
+		{
+			background: url('./imgs/next.png') no-repeat center center / 100% 100% transparent;
+			position: relative;
+			display: inline-block;
+			top:-220px;	left: 785px;
+			width: 50px;	height: 50px;
+			opacity: 0.5;	cursor: pointer;
+		}
+		#prev
+		{
+			background: url('./imgs/prev.png') no-repeat center center / 100% 100% transparent;
+			position: relative;
+			display: inline-block;
+			top:-220px;	left: -15px;
+			width: 50px;	height: 50px;
+			opacity: 0.5;	cursor: pointer;
+		}
+		#next:hover{opacity: 1.0;}
+		#prev:hover{opacity: 1.0;}
+		.gallery_imgs
+		{
+			height:430px;	width: 850px;
+			display: inline-block;
+			border-radius: 10px;	border: 3px solid	#ffffff;
+		}
+	</style>	
+</head>
+
+<div id="ardeur12_wrapper">
+	<div id="ardeur12_container">
+	</div>
+	<div id="next"></div>
+	<div id="prev"></div>
+</div>
+
+<script type="text/javascript">
+	var img_index=1;
+	$(document).ready(function(){
+		$('ardeur12_container').fadeOut(400);
+		document.getElementById('ardeur12_container').innerHTML="<img class='gallery_imgs' src='./imgs/gallery_imgs/ardeur12/"+img_index+".jpg'</img>";
+		$('ardeur12_container').fadeIn(400);
+	});
+
+	$('#next').click(function(){
+		if(img_index>=3){img_index=1;}
+		else{img_index++;}
+		$('ardeur12_container').fadeOut(400);
+		document.getElementById('ardeur12_container').innerHTML="<img class='gallery_imgs' src='./imgs/gallery_imgs/ardeur12/"+img_index+".jpg'</img>";
+		$('ardeur12_container').fadeIn(400);
+	});
+	$('#prev').click(function(){
+		if(img_index<=1){img_index=3;}
+		else{img_index--;}
+		document.getElementById('ardeur12_container').innerHTML="<img class='gallery_imgs' src='./imgs/gallery_imgs/ardeur12/"+img_index+".jpg'</img>";
+	});
+</script>

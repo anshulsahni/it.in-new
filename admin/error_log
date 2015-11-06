@@ -1,0 +1,64 @@
+[23-Jan-2014 04:44:33 America/New_York] PHP Warning:  Module 'Phar' already loaded in Unknown on line 0
+[23-Jan-2014 04:44:34 America/New_York] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'instavid_ita'@'localhost' (using password: YES) in /home/instavid/public_html/ita/admin/admin.php on line 2
+[23-Jan-2014 05:38:37 America/New_York] PHP Warning:  Module 'Phar' already loaded in Unknown on line 0
+[23-Jan-2014 05:38:43 America/New_York] PHP Warning:  Module 'Phar' already loaded in Unknown on line 0
+[23-Jan-2014 05:38:43 America/New_York] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'instavid_ita'@'localhost' (using password: YES) in /home/instavid/public_html/ita/admin/index.php on line 7
+[23-Jan-2014 05:38:43 America/New_York] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'instavid'@'localhost' (using password: NO) in /home/instavid/public_html/ita/admin/index.php on line 8
+[23-Jan-2014 05:38:43 America/New_York] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/instavid/public_html/ita/admin/index.php on line 8
+[23-Jan-2014 05:38:43 America/New_York] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'instavid'@'localhost' (using password: NO) in /home/instavid/public_html/ita/admin/index.php on line 9
+[23-Jan-2014 05:38:43 America/New_York] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/instavid/public_html/ita/admin/index.php on line 9
+[23-Jan-2014 05:38:43 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/instavid/public_html/ita/admin/index.php on line 9
+[23-Jan-2014 05:38:50 America/New_York] PHP Warning:  Module 'Phar' already loaded in Unknown on line 0
+[23-Jan-2014 05:38:50 America/New_York] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'instavid_ita'@'localhost' (using password: YES) in /home/instavid/public_html/ita/admin/index.php on line 7
+[23-Jan-2014 05:38:50 America/New_York] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'instavid'@'localhost' (using password: NO) in /home/instavid/public_html/ita/admin/index.php on line 8
+[23-Jan-2014 05:38:50 America/New_York] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/instavid/public_html/ita/admin/index.php on line 8
+[23-Jan-2014 05:38:50 America/New_York] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'instavid'@'localhost' (using password: NO) in /home/instavid/public_html/ita/admin/index.php on line 9
+[23-Jan-2014 05:38:50 America/New_York] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/instavid/public_html/ita/admin/index.php on line 9
+[23-Jan-2014 05:38:50 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/instavid/public_html/ita/admin/index.php on line 9
+[23-Jan-2014 05:38:59 America/New_York] PHP Warning:  Module 'Phar' already loaded in Unknown on line 0
+[23-Jan-2014 05:38:59 America/New_York] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'instavid_ita'@'localhost' (using password: YES) in /home/instavid/public_html/ita/admin/index.php on line 7
+[23-Jan-2014 05:38:59 America/New_York] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'instavid'@'localhost' (using password: NO) in /home/instavid/public_html/ita/admin/index.php on line 8
+[23-Jan-2014 05:38:59 America/New_York] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/instavid/public_html/ita/admin/index.php on line 8
+[23-Jan-2014 05:38:59 America/New_York] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'instavid'@'localhost' (using password: NO) in /home/instavid/public_html/ita/admin/index.php on line 9
+[23-Jan-2014 05:38:59 America/New_York] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/instavid/public_html/ita/admin/index.php on line 9
+[23-Jan-2014 05:38:59 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/instavid/public_html/ita/admin/index.php on line 9
+[23-Jan-2014 05:39:08 America/New_York] PHP Warning:  Module 'Phar' already loaded in Unknown on line 0
+[23-Jan-2014 05:39:09 America/New_York] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'instavid_ita'@'localhost' (using password: YES) in /home/instavid/public_html/ita/admin/admin.php on line 2
+[23-Jan-2014 05:55:33 America/New_York] PHP Warning:  Module 'Phar' already loaded in Unknown on line 0
+[23-Jan-2014 05:55:33 America/New_York] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'instavid_ita'@'localhost' (using password: YES) in /home/instavid/public_html/ita/admin/admin.php on line 2
+[23-Jan-2014 05:55:49 America/New_York] PHP Warning:  Module 'Phar' already loaded in Unknown on line 0
+[23-Jan-2014 05:56:00 America/New_York] PHP Warning:  Module 'Phar' already loaded in Unknown on line 0
+[23-Jan-2014 05:56:00 America/New_York] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'instavid_ita'@'localhost' (using password: YES) in /home/instavid/public_html/ita/admin/index.php on line 7
+[23-Jan-2014 05:56:00 America/New_York] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'instavid'@'localhost' (using password: NO) in /home/instavid/public_html/ita/admin/index.php on line 8
+[23-Jan-2014 05:56:00 America/New_York] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/instavid/public_html/ita/admin/index.php on line 8
+[23-Jan-2014 05:56:00 America/New_York] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'instavid'@'localhost' (using password: NO) in /home/instavid/public_html/ita/admin/index.php on line 9
+[23-Jan-2014 05:56:00 America/New_York] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/instavid/public_html/ita/admin/index.php on line 9
+[23-Jan-2014 05:56:00 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/instavid/public_html/ita/admin/index.php on line 9
+[23-Jan-2014 05:56:06 America/New_York] PHP Warning:  Module 'Phar' already loaded in Unknown on line 0
+[23-Jan-2014 05:56:06 America/New_York] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'instavid_ita'@'localhost' (using password: YES) in /home/instavid/public_html/ita/admin/index.php on line 7
+[23-Jan-2014 05:56:06 America/New_York] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'instavid'@'localhost' (using password: NO) in /home/instavid/public_html/ita/admin/index.php on line 8
+[23-Jan-2014 05:56:06 America/New_York] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/instavid/public_html/ita/admin/index.php on line 8
+[23-Jan-2014 05:56:06 America/New_York] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'instavid'@'localhost' (using password: NO) in /home/instavid/public_html/ita/admin/index.php on line 9
+[23-Jan-2014 05:56:06 America/New_York] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/instavid/public_html/ita/admin/index.php on line 9
+[23-Jan-2014 05:56:06 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/instavid/public_html/ita/admin/index.php on line 9
+[23-Jan-2014 05:56:09 America/New_York] PHP Warning:  Module 'Phar' already loaded in Unknown on line 0
+[23-Jan-2014 05:56:09 America/New_York] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'instavid_ita'@'localhost' (using password: YES) in /home/instavid/public_html/ita/admin/index.php on line 7
+[23-Jan-2014 05:56:09 America/New_York] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'instavid'@'localhost' (using password: NO) in /home/instavid/public_html/ita/admin/index.php on line 8
+[23-Jan-2014 05:56:09 America/New_York] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/instavid/public_html/ita/admin/index.php on line 8
+[23-Jan-2014 05:56:09 America/New_York] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'instavid'@'localhost' (using password: NO) in /home/instavid/public_html/ita/admin/index.php on line 9
+[23-Jan-2014 05:56:09 America/New_York] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/instavid/public_html/ita/admin/index.php on line 9
+[23-Jan-2014 05:56:09 America/New_York] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/instavid/public_html/ita/admin/index.php on line 9
+[02-Feb-2014 07:53:33 America/New_York] PHP Warning:  Module 'Phar' already loaded in Unknown on line 0
+[02-Feb-2014 07:53:40 America/New_York] PHP Warning:  Module 'Phar' already loaded in Unknown on line 0
+[02-Feb-2014 07:53:45 America/New_York] PHP Warning:  Module 'Phar' already loaded in Unknown on line 0
+[02-Feb-2014 07:53:46 America/New_York] PHP Warning:  Module 'Phar' already loaded in Unknown on line 0
+[02-Feb-2014 07:54:55 America/New_York] PHP Warning:  Module 'Phar' already loaded in Unknown on line 0
+[02-Feb-2014 07:55:38 America/New_York] PHP Warning:  Module 'Phar' already loaded in Unknown on line 0
+[02-Feb-2014 08:04:12 America/New_York] PHP Warning:  Module 'Phar' already loaded in Unknown on line 0
+[02-Feb-2014 08:04:18 America/New_York] PHP Warning:  Module 'Phar' already loaded in Unknown on line 0
+[08-Feb-2014 05:56:36 America/New_York] PHP Warning:  Module 'Phar' already loaded in Unknown on line 0
+[08-Feb-2014 05:56:48 America/New_York] PHP Warning:  Module 'Phar' already loaded in Unknown on line 0
+[08-Feb-2014 05:57:01 America/New_York] PHP Warning:  Module 'Phar' already loaded in Unknown on line 0
+[08-Feb-2014 05:57:14 America/New_York] PHP Warning:  Module 'Phar' already loaded in Unknown on line 0
+[14-Feb-2014 05:29:21 America/New_York] PHP Warning:  Module 'Phar' already loaded in Unknown on line 0
+[14-Feb-2014 05:30:12 America/New_York] PHP Warning:  Module 'Phar' already loaded in Unknown on line 0

@@ -1,0 +1,12 @@
+*{margin : 0;padding : 0;}
+.bg{height : 100%; width : 100%; background : #BBBBBB url(../../images/logo_ori.jpg) no-repeat center -30px; position : absolute; -webkit-filter : blur(5px);}
+.page{position: absolute;top: 50%;left: 0px;width: 100%;height: 1px;overflow: visible;}
+.overlay{background : #0a0a0a; opacity : 0.5; width : 100%; height : 100%; position : absolute;top : 0px;left : 0px;}
+.main{width: 800px;min-height: 400px;margin-left: -400px;position: absolute;top: -200px;left: 50%;background-color:transparent;z-index:100; color : #ffffff; text-shadow : 0px 0px 20px #ffffff;cursor : pointer;}
+.h1{font : normal 60px Calibri; -webkit-transition : all .8s ease; transition : all .8s ease; -moz-transition : all .8s ease; margin-left : -500px;}
+.hone{-webkit-transform : translate(250px, 0px); -moz-transform : translate(250px, 0px); transform : translate(250px, 0px); }
+.h2{font : normal 40px Calibri; margin-left : 500px; -webkit-transition : all .8s ease; -moz-transition : all .8s ease; transition : all .8s ease;}
+.htwo{-webkit-transform : translate(-250px , 0px); -moz-transform : translate(-250px , 0px); transform : translate(-250px , 0px);}
+.h3{font : normal 50px Calibri; -webkit-transition : all .8s ease; -moz-transition : all .8s ease; transition : all .8s ease; margin-left : -300px; margin-top : 100px;}
+.hthree{-webkit-transform : translate(150px,-50px); -moz-transform : translate(150px,-50px); transform : translate(150px,-50px);}
+.pos{text-align : center; margin : 100px auto;}
